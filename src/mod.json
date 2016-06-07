@@ -1,18 +1,14 @@
 {
+  "options" : {"output_dir" : ".."},
+  "modinfo" : {
     "author": "dom314",
     "context": "client",
     "description": "Makes metal icons heart shaped and pink instead",
     "display_name": "Heart Metal Icon: Pink",
-    "icon": "http://i.imgur.com/oXadLYs.png",
+    "icon" : "http://i.imgur.com/oXadLYs.png",
     "forum": "https://forums.uberent.com/threads/rel-client-heart-metal-icons.68520/",
     "identifier": "com.pa.domdom.heart.metal_icon.pink",
-    "category": [
-        "titans",
-        "classic",
-        "icons"
-    ],
-    "version": "1.0.2",
-    "build": "94684",
-    "date": "2016/06/07",
-    "signature": " "
+    "category": ["titans", "classic", "icons"],
+    "version" : "1.0.2"
+  }
 }
